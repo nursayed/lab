@@ -1,0 +1,105 @@
+@media screen and (max-width: 425px) {
+  
+  .service-box {
+    height: auto;
+}
+.service-body {
+  text-align: left;
+}
+  .menu {
+    width: 20%;
+    padding-right: 20px;
+}
+.navigation {
+  right: -30%;
+}
+.logo a {
+  font-size: 20px;
+  margin-left: 18px;
+}
+.home-left {
+  margin: 0 0 0 20px;
+}
+.home-body h2 {
+  font-size: 22px;
+}
+.home-body p {
+  font-size: 15px;
+  padding: 0 0 22px 0;
+  margin: 0;
+}
+.home-body img {
+  width: 80%;
+  right: 0;
+}
+.home-body-height {
+  height: 100vh;
+  padding: 130px 0 0 0;
+  align-items: unset;
+  display: inherit;
+}
+.navshow {
+  right: 0;
+  width: 100%;
+}
+.chevron-left {
+  margin: 0 15px 10px 0;
+}
+.button {
+  /* border: 2px solid #ed2055; */
+  width: 10rem;
+  height: 40px;
+}
+.button i {
+  height: 49px;
+  font-size: 25px;
+}
+.button a {
+  font-size: 15px;
+}
+.owl-nav{
+  display: block;
+}
+
+.footer-bottom h2 {
+  color: #fff;
+  letter-spacing: 10px;
+  font-size: 15px;
+  padding: 25px 0;
+}
+/* sssssssssssssssss */
+
+.service-box {
+  text-align: center;
+}
+.service-img {
+  margin: 0 auto;
+}
+.service-box p {
+  text-align: center;
+}
+
+.service-box hr {
+  margin: 60px auto;
+  
+}
+
+
+
+
+}
+@media screen and (max-width: 768px) {
+
+  .service-left {
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+}
+.service-area {
+  height: unset;
+}
+
+}
+
+
+
